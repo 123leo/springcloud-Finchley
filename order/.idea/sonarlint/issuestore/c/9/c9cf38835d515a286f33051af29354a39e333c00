@@ -1,7 +1,0 @@
-
-Gsquid:S1481")Remove this unused "gson" local variable.(şëŒ8€ÍŠè„-
-nsquid:UselessImportCheck">Remove this unused import 'com.google.gson.reflect.TypeToken'.(İªıñøÿÿÿÿ8€ÍŠè„-
-Vsquid:S1854"8Remove this useless assignment to local variable "gson".(şëŒ8€ÍŠè„-
-Qsquid:S1118":Add a private constructor to hide the implicit public one.(ëéªç
-fsquid:UselessImportCheck";Remove this unused import 'com.leo.order.enums.ResultEnum'.(š²«8€ÍŠè„-
-nsquid:UselessImportCheck"CRemove this unused import 'com.leo.order.exception.OrderException'.(šîè£8€ÍŠè„-
