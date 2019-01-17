@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: xxxxxxx
+          username: xxxxxx
+          password: xxxxxx
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+server:
+  port: 8083
